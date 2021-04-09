@@ -50,12 +50,16 @@ Bon nan denye etap sa nou pral jis bezwen fè yon kopi/kole nan yon TERMINAL/lig
 epi konyea poum rasirew ke telechajeman ou korek jis gade nan pwojè ou epi gade siw jwenn folder/directory sa yo :
 
 ```
-[ DIR/FOLDER ] - ecelestin-Moncash-sdk-php
-[ DIR/FOLDER ] - vendor
-[ FILE ] - composer.json
-[ FILE } - composer.lock
+pwojè =>
+		[ DIR/FOLDER ] - ecelestin-Moncash-sdk-php
+		[ DIR/FOLDER ] - vendor
+		[ FILE ] - composer.json
+		[ FILE } - composer.lock
 ```
+si nou jwenn tout bagy konsa se ke tout bagay bon eke konyea ou pare pouw travay ak API moncash la, e si nou ta anvi ale pi lwen mwen mete PDF ofisyel kominote moncash la pou nou nan repo mwen yo alor pa ezite download li poun ka travay ak API aa e konnen ke fok nou ranje folder ak fichye yo pou nou pa gen pwoblem menm kite challenge sa nou epi map swete nou bon entegrasyon epi fè lajan ak sit nou pandan nap respekte règ kominote moncash-developper yo pou API aaa, e mwen ta renmen di nou ke si nou bezwen test API aaa meyè fason an se ale sou sit sa a https://sandbox.moncashbutton.digicelgroup.com/ ki se sandbox-moncash pou verifye e travay sou API aa wap gen anpil posibilite sou li e lew fini wap jis kontakte moncash-developper pouw ka fè konnen kew prè pouw pase an mod pwodiksyon ki se mod pouw komanse ap fè bon transfè elatriye .... tout bagay eksplike sou sit https://digicelhaiti.com lan
 
+
+### AUTHOR : Djefferson Saintilus At [DOCTYPE CODERS](https://doctypecoders.com)
 
 
 
