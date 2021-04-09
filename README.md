@@ -47,8 +47,12 @@ Bon nan denye etap sa nou pral jis bezwen fè yon kopi/kole nan yon TERMINAL/lig
 
 epi konyea poum rasirew ke telechajeman ou korek jis gade nan pwojè ou epi gade siw jwenn folder/directory sa yo :
 
-..* 
-
+```
+[ DIR/FOLDER ] - ecelestin-Moncash-sdk-php
+[ DIR/FOLDER ] - vendor
+[ FILE ] - composer.json
+[ FILE } - composer.lock
+```
 
 
 
