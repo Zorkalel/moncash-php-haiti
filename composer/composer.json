@@ -1,0 +1,9 @@
+{
+	"repositories": [{
+		"type": "vcs",
+		"url": "https://github.com/ecelestin/ecelestin-Moncash-sdk-php.git"
+	}],
+	"require": {
+		"DGCGroup/MonCash-PHP-SDK": "dev-master"
+	}
+}
