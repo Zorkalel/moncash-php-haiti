@@ -21,7 +21,7 @@ fasil a enstale tankou pou **WINDOWS** wap jis enstale yon pwogram epi `NEXT NEX
 
 Yon pwojè se langaj Git men ou ka konprann li tankou se yon **folder/directory** kote ki gen sitWEB wap devlope aaa, alor sawap fè se kreye yonnn siw pat genyen men siw te genyen alor kontinye swiv nou pouw ka swiv kijan ou pral rele pwojè moncash poul vini nan pwojè ou a.
 
-Men konya sak rete se poun telechaje trokèt tout api-moncash laaa ki se template la e nap ka telechajel si nou ale direk sou lyen sa [TELECHAJEM](https://github.com/ecelestin/ecelestin-Moncashsdk-php.git) oubyen tou nou ouvri yon TERMINAL/LigneDeCommande epi nou ekri sa a `git clone https://github.com/ecelestin/ecelestin-Moncashsdk-php.git` epi se konsa wap jis rete chay la ki se **vendor** la pouw telechaje
+Men konya sak rete se poun telechaje trokèt tout api-moncash laaa ki se template la e nap ka telechajel si nou ale direk sou lyen sa [TELECHAJEM](https://github.com/ecelestin/ecelestin-Moncashsdk-php) oubyen tou nou ouvri yon TERMINAL/LigneDeCommande epi nou ekri sa a `git clone https://github.com/ecelestin/ecelestin-Moncashsdk-php.git` epi se konsa wap jis rete chay la ki se **vendor** la pouw telechaje
 
 
 3. Kreye yon fichye `composer.json`
